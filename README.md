@@ -1,6 +1,3 @@
-# jdbc_test
-student query for jdbc test
-
 # Project Title
 
 Java application connected to database using JDBC
