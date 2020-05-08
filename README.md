@@ -1,4 +1,4 @@
-# Project Title
+# Java app with JDBC
 
 Java application connected to database using JDBC
 
